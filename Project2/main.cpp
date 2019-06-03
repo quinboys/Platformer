@@ -1,7 +1,7 @@
 #pragma once
 
 int main() {
-	//asd
+	//test
 }
 
 
