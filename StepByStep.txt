@@ -1,0 +1,9 @@
+
++Få ett fönster öppnat (Inte console)
++Få en tickrate att fungera
++Få en fyrkant på skärmen
++Få fyrkanten på skärmen att röra sig höger/vänster (Med hjälp av knapptryck)
++Gravitation
++Golv som spelaren kan stå på
++Hopp
++Vinststolpe
