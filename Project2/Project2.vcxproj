@@ -126,7 +126,6 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="entity.h" />
     <ClInclude Include="game.h" />
     <ClInclude Include="nonPassableObject.h" />
     <ClInclude Include="player.h" />

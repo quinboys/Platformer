@@ -23,9 +23,6 @@
     <ClInclude Include="game.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="entity.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="nonPassableObject.h">
       <Filter>Header Files</Filter>
     </ClInclude>
