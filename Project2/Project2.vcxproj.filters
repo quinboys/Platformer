@@ -18,21 +18,24 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="game.h">
+    <ClInclude Include="Header Files\entity.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="entity.h">
+    <ClInclude Include="Header Files\game.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="nonPassableObject.h">
+    <ClInclude Include="Header Files\nonPassableObject.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="player.h">
+    <ClInclude Include="Header Files\player.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="victoryPole.h">
+    <ClInclude Include="Header Files\victoryPole.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
