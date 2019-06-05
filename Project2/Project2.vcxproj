@@ -123,13 +123,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
+    <ClInclude Include="Header Files\entity.h" />
+    <ClInclude Include="Header Files\game.h" />
+    <ClInclude Include="Header Files\nonPassableObject.h" />
+    <ClInclude Include="Header Files\player.h" />
+    <ClInclude Include="Header Files\victoryPole.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="game.h" />
-    <ClInclude Include="nonPassableObject.h" />
-    <ClInclude Include="player.h" />
-    <ClInclude Include="victoryPole.h" />
+    <ClCompile Include="Source Files\game.cpp" />
+    <ClCompile Include="Source Files\main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
